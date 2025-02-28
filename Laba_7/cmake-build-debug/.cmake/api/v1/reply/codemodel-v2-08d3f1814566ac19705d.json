@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Laba_7",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_7-Debug-0e846f5f048e69df4167.json",
+					"name" : "Laba_7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/\u041d\u0430\u0432\u0447\u0430\u043d\u043d\u044f/1 \u043a\u0443\u0440\u0441/Course C/Laba_7/cmake-build-debug",
+		"source" : "C:/\u041d\u0430\u0432\u0447\u0430\u043d\u043d\u044f/1 \u043a\u0443\u0440\u0441/Course C/Laba_7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,3 @@
+C:/Навчання/1 семестр/Course C/Laba9/cmake-build-debug/CMakeFiles/Laba9.dir
+C:/Навчання/1 семестр/Course C/Laba9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Навчання/1 семестр/Course C/Laba9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
